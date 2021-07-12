@@ -1,0 +1,29 @@
+[
+    {
+        "personID": "001",
+        "personName": "Suphasit Chiathamrongkiarti",
+        "gender": "Male",
+        "weight": 62,
+        "height": 163,
+        "birthdate": "12-11-1998",
+        "imgURL": "https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.6435-9/137570820_4884549021619354_2191000958293899937_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFTtr5eqCTBup0ib6beJ__vyRk23fNs1ivJGTbd82zWK1HOqTNovMHgYFGO077TDGEg7-r63mVExaiqvqdylONW&_nc_ohc=86g2D2wcJhoAX_ewjW8&_nc_ht=scontent.fbkk5-3.fna&oh=7b4da1c9f61c31997f099bd3fbc13f6d&oe=60CC108E"
+    },
+    {
+        "personID": "002",
+        "personName": "Yong Yangyuen",
+        "gender": "Male",
+        "weight": 55,
+        "height": 170,
+        "birthdate": "11-10-2000",
+        "imgURL": "https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.6435-9/167054402_3871015636307946_7385999789850273856_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFa_sWN3w7AkqmGh1C59b69KbbscHlp5xIptuxweWnnEqtaWayc7aA0seMVtsSwV9K7KXqfylGPFEROSs55Cxu8&_nc_ohc=4BAWxTbAtAkAX8m5Emi&_nc_ht=scontent.fbkk5-3.fna&oh=efcd1cdef2d988efd9e89bcfbf5fbe46&oe=60CDCDB1"
+    },
+    {
+        "personID": "003",
+        "personName": "Krit ThreeManDown",
+        "gender": "Female",
+        "weight": 77,
+        "height": 184,
+        "birthdate": "9-08-2004",
+        "imgURL": "https://i.pinimg.com/originals/bd/d0/4f/bdd04fb67f7c5843667283fa0ba5c2e8.jpg"
+    }
+]

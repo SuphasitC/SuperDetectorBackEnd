@@ -1,0 +1,26 @@
+[
+    {
+        "carID": "001",
+        "carName": "Kirito",
+        "color": "ส้ม",
+        "licensePlate": "กขค 3520",
+        "province": "ตรัง",
+        "imgURL": "https://robbreport.com/wp-content/uploads/2014/10/1a_mclaren_p11.jpg"
+    },
+    {
+        "carID": "002",
+        "carName": "Tanjiro",
+        "color": "เหลือง",
+        "licensePlate": "งจช 2930",
+        "province": "สงขลา",
+        "imgURL": "https://www.mgcars.com/storage/upload/car_type/10/b77d4b4cae9ae65e83ac1485cda83130.png"
+    },
+    {
+        "carID": "003",
+        "carName": "Mitsubishi",
+        "color": "ขาว",
+        "licensePlate": "ฝนต 1414",
+        "province": "ปทุมธานี",
+        "imgURL": "https://www.mitsubishi-motors.co.th/content/dam/mitsubishi-motors-th/images/site-images/vehicle-page-assets/xpander/2020/regular/index/13-7.jpg?width=1440&auto=webp"
+    }
+]
